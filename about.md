@@ -121,7 +121,7 @@ as the saying goes:
 
 > Who, What, Where, When, Why *and sometimes How*
 
-So how as Pippin created? Well the
+So how was Pippim created? Well the
 first step was to find a domain name (website name) that:
 
 1. Was easy to remember
